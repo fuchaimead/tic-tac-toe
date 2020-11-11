@@ -44,6 +44,12 @@
   cursor: pointer;
 }
 
+.win {
+  font-size: 28px;
+  padding-top: 10px;
+  color: green;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
